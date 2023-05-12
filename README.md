@@ -10,4 +10,4 @@ Eler is mainly comprised of two main phases: feature extraction and ensemble lea
 2. Ensemble learning: The purpose of this phase is to input the similarity vector to multiple machine learning models for categorisation, and combine the categorisation results given by each machine learning model to give a final result as to help determine whether or not the detected code pair is indeed a clone. The input of this phase is the similarity vector and the outcome will be the final result of the clone verification. 
 
 
-The source code and dataset of Amain are published here.
+The source code and dataset of Eler are published here.
